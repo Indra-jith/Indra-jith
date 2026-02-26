@@ -140,61 +140,15 @@ active_research = {
 
 <div align="center">
 
-<!-- 
-  STATS CARDS: Replace YOUR_GITHUB_USERNAME below with your exact GitHub username (case-sensitive).
-  These cards are served by a public Vercel deployment of github-readme-stats.
-  If cards still fail, self-host: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
--->
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Indra-jith&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&hide_border=false" />
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indra-jith&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&langs_count=6&hide_border=false&exclude_repo=github-readme-stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indra-jith&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&langs_count=6&hide_border=false" />
 
 </div>
 
 <br>
 
 <div align="center">
-
-<!-- Streak stats — reliable, no self-hosting needed -->
-<img src="https://streak-stats.demolab.com?user=Indra-jith&theme=dark&background=0d1117&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&hide_border=false" width="55%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- 
-  SNAKE ANIMATION: Requires a one-time GitHub Actions setup in your profile repo (Indra-jith/Indra-jith).
-  Setup steps (takes ~2 minutes):
-    1. In your profile repo, create file: .github/workflows/snake.yml  (see instructions below)
-    2. Run the workflow manually once from the Actions tab
-    3. The SVG will appear at the path below automatically on every push thereafter
-
-  ── snake.yml content ──────────────────────────────────────────────────────
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: Indra-jith
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ────────────────────────────────────────────────────────────────────────────
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Indra-jith/Indra-jith/output/github-contribution-grid-snake-dark.svg" />
