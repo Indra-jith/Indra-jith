@@ -140,20 +140,10 @@ active_research = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Indra-jith&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&hide_border=false" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indra-jith&layout=compact&theme=github_dark&bg_color=0d1117&border_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&langs_count=6&hide_border=false" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Indra-jith/Indra-jith/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Indra-jith/Indra-jith/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Indra-jith/Indra-jith/output/github-contribution-grid-snake-dark.svg" width="90%" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Indra-jith/Indra-jith/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </picture>
 
 </div>
