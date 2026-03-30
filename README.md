@@ -65,7 +65,27 @@
 ## `> projects --featured`
 
 <details open>
-<summary><b>[ 01 ] &nbsp; Failure-Aware Vision — ML Perception Engine</b></summary>
+<summary><b>[ 01 ] &nbsp; ShadowMind — Autonomous AI Investigation Agent</b></summary>
+
+<br>
+
+> A hypothesis-driven agentic RAG system that autonomously generates competing theories, retrieves targeted evidence per hypothesis, scores confidence, eliminates weak candidates, and loops until convergence — going well beyond standard single-pass RAG.
+
+- **Hypothesis-driven agentic pipeline** built on LangGraph — the agent autonomously generates, scores, and eliminates competing theories with full loop-until-convergence logic
+- **Custom web ingestion pipeline** using BeautifulSoup to scrape, clean, and chunk 150+ articles across 30+ topics into a semantically searchable Qdrant vector corpus (Cohere embed-english-v3.0, 1024-dim)
+- **Fully structured LLM outputs** across all 5 agent nodes via Pydantic v2 — zero unstructured text in the pipeline — with Groq (Llama 3.3 70B) delivering sub-second inference for real-time streaming
+
+`LangGraph` `LangChain` `Qdrant` `Cohere` `FastAPI` `Pydantic v2` `Groq`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-0a0a0a?style=flat-square&logo=github&logoColor=00D9FF)](https://github.com/Indra-jith/ShadowMind)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-0a0a0a?style=flat-square&logo=vercel&logoColor=00D9FF)](https://shadow-mind-77.vercel.app/)
+
+</details>
+
+---
+
+<details open>
+<summary><b>[ 02 ] &nbsp; Failure-Aware Vision — ML Perception Engine</b></summary>
 
 <br>
 
@@ -85,7 +105,7 @@
 ---
 
 <details open>
-<summary><b>[ 02 ] &nbsp; Intentra — AI Prompt Optimization Platform</b></summary>
+<summary><b>[ 03 ] &nbsp; Intentra — AI Prompt Optimization Platform</b></summary>
 
 <br>
 
@@ -105,7 +125,7 @@
 ---
 
 <details open>
-<summary><b>[ 03 ] &nbsp; Gesture-Controlled Human-Machine Interface</b></summary>
+<summary><b>[ 04 ] &nbsp; Gesture-Controlled Human-Machine Interface</b></summary>
 
 <br>
 
@@ -154,9 +174,9 @@ active_research = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/indra-jith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/indrajithmp)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:indrajith.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:indrajithmp77@gmail.com)
 
 </div>
 
