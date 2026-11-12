@@ -12,7 +12,13 @@
 
 ## `> whoami`
 
-4th-year Computer Science student with a minor in Machine Learning and a 9+ CGPA — focused on building AI systems that hold up under real-world conditions. My work sits at the intersection of **perception pipelines**, **LLM orchestration**, and **reliability-aware inference**. I think in terms of failure modes, state machines, and trust propagation — not just model accuracy. Currently targeting MS in ML and next-generation AI systems roles where correctness and fault-tolerance matter as much as raw capability.
+B.Tech Computer Science graduate ('26) with a minor in Machine Learning, focused on building AI systems that hold up under real-world conditions.
+
+My work sits at the intersection of **perception pipelines**, **LLM orchestration**, and **reliability-aware inference**. I approach AI engineering through the lens of failure modes, state machines, fault tolerance, and trust propagation — not just model accuracy.
+
+Currently an **ML Engineer at Golgix Innovation Lab**, building applied AI systems for industrial environments, with hands-on experience in multi-agent LangGraph pipelines, quota-aware LLM orchestration, and hypothesis-driven RAG architectures.
+
+Interested in next-generation AI systems, reliable inference, agentic architectures, and advanced ML engineering.
 
 ---
 
